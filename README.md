@@ -20,7 +20,7 @@ Chatbot project for finding a psychologist
 Роль в команде: Backend Developer    
 2) Имя: Дмитрий   
 Контакты:    
-Роль в команде: QA    
+Роль в команде: Архитектор     
 ## Ссылка на репозиторий/артефакты проекта  
 https://github.com/VeraPrincess/first-talk
 
